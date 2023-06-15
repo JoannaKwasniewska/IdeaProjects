@@ -3,7 +3,7 @@ package com.kodilla.rest.domain;
 import java.util.Objects;
 
 public class BookDto {
-    private String title;rtgrhb
+    private String title;
     private String author;
 
     public BookDto() {
