@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.rest.controller.BookControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-14T12:59:42" hostname="EITX-N-00251" time="1.027">
+  <properties/>
+  <testcase name="shouldFetchBooks()" classname="com.kodilla.rest.controller.BookControllerTest" time="1.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
