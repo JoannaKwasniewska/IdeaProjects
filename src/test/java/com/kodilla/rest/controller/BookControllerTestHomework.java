@@ -31,6 +31,7 @@ public class BookControllerTestHomework {
 
     @Test
     public void shouldAddBook() throws Exception {
+
         // Given
         String jsonBook = "{\"title\":\"The Catcher in the Rye\",\"author\":\"J.D. Salinger\"}";
 
