@@ -28,6 +28,7 @@ public class BookService {
         for (BookDto book : books) {
             if (book.getTitle().equals(title)) {
                 bookToRemove = book;
+
                 break;
             }
         }
